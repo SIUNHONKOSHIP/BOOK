@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--     LABEL -->
+    <string name="app_name">Book</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lb_book_management">BOOK MANAGEMENT</string>
+    
+	<!--     BUTTON -->
+    <string name="btn_addauthor">Add Author</string>
+    <string name="btn_viewlistauthor">View List Author</string>
+    <string name="btn_managementbook">MANAGEMENT BOOK</string>
+
+</resources>
